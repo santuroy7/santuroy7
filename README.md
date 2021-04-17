@@ -2,12 +2,9 @@
 
 ### Skills
 
--Java
--C
--HTML/CSS
--JavaScript
--JsNood
--Shell
-
-###GitHub Stats
-
+- Java
+- C
+- HTML/CSS
+- JavaScript
+- JsNood
+- Shell
