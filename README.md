@@ -1,6 +1,6 @@
 ### Hey! There 👋
 
-### Language:
+## Language:
 
 - Java
 - C
