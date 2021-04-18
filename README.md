@@ -18,6 +18,6 @@
 <hr>
 
  <p align="center">
-    Show ❤️ by starring repositories you find good!
+    ❤
  </p>
 
