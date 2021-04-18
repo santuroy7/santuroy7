@@ -1,6 +1,6 @@
 ### Hey! There 👋
 
-### Skills
+### Language:
 
 - Java
 - C
