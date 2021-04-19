@@ -6,7 +6,7 @@
 - C
 - HTML/CSS
 - JavaScript
-- JsNood
+- Node.js
 - Shell
 
 <hr>
