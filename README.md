@@ -33,6 +33,6 @@ alt="Loading.." width="30" height="30" border="5" /></a>
 
 
  <p align="center">
-    **_See You Soon_**❤
+   _See You Soon_❤
  </p>
 
