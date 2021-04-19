@@ -20,9 +20,9 @@
 <hr>
 
 <p align="center">
-  <a href="https://www.facebook.com/santu.roy.589" target="_top"><img src="https://github.com/santuroy7/santuroy7/blob/main/facebook.png" alt="Loading.." width="30" height="30" border="50" /></a>
-  <a href="https://www.instagram.com/it.s_roy__/" target="_top"><img src="https://github.com/santuroy7/santuroy7/blob/main/insta.png" alt="Loading.." width="30" height="30" border="50" /></a>
-  <a href="https://twitter.com/Santu_Roy__" target="_top"><img src="https://github.com/santuroy7/santuroy7/blob/main/twiter.png" alt="Loading.." width="30" height="30" border="50" /></a>
+  <a href="https://www.facebook.com/santu.roy.589" target="_top"><img src="https://github.com/santuroy7/santuroy7/blob/main/facebook.png" alt="Loading.." width="30" height="30" border="5" /></a>
+  <a href="https://www.instagram.com/it.s_roy__/" target="_top"><img src="https://github.com/santuroy7/santuroy7/blob/main/insta.png" alt="Loading.." width="30" height="30" border="5" /></a>
+  <a href="https://twitter.com/Santu_Roy__" target="_top"><img src="https://github.com/santuroy7/santuroy7/blob/main/twiter.png" alt="Loading.." width="30" height="30" border="5" /></a>
   </p>
 
 
