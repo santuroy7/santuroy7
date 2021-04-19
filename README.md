@@ -9,6 +9,8 @@
 - JsNood
 - Shell
 
+<hr>
+
 **Github Stats:**
 
 <p align="center">
@@ -22,6 +24,8 @@
 " target="_top"><img src="https://github.com/santuroy7/santuroy7/blob/main/facebook.png" 
 alt="Loading.." width="30" height="30" border="5" /></a>
   </p>
+
+<hr>
 
  <p align="center">
     ❤
