@@ -19,8 +19,8 @@
 
 <p align="center">
   <a href="https://www.facebook.com/santu.roy.589
-" target="_blank"><img src="https://github.com/santuroy7/santuroy7/blob/main/facebook.png" 
-alt="Loading.." width="35" height="35" border="10" /></a>
+" target="_top"><img src="https://github.com/santuroy7/santuroy7/blob/main/facebook.png" 
+alt="Loading.." width="30" height="30" border="5" /></a>
   </p>
 
  <p align="center">
