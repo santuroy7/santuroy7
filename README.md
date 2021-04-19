@@ -11,7 +11,7 @@
 
 <hr>
 
-###Github Stats:
+### Github Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=santuroy7&show_icons=true&theme=dracula&line_height=32">
@@ -31,7 +31,6 @@ alt="Loading.." width="30" height="30" border="5" /></a>
 alt="Loading.." width="30" height="30" border="5" /></a>
   </p>
 
-<hr>
 
  <p align="center">
     ❤
