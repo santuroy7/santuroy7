@@ -27,7 +27,7 @@ alt="Loading.." width="30" height="30" border="5" /></a>
 " target="_top"><img src="https://github.com/santuroy7/santuroy7/blob/main/insta.png" 
 alt="Loading.." width="30" height="30" border="5" /></a>
   <a href="https://www.facebook.com/santu.roy.589
-" target="_top"><img src="https://github.com/santuroy7/santuroy7/blob/main/facebook.png" 
+" target="_top"><img src="https://github.com/santuroy7/santuroy7/blob/main/twiter.png" 
 alt="Loading.." width="30" height="30" border="5" /></a>
   </p>
 
