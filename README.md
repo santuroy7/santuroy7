@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://www.facebook.com/santu.roy.589
 " target="_blank"><img src="https://github.com/santuroy7/santuroy7/blob/main/facebook.png" 
-alt="Loding.." width="240" height="180" border="10" /></a>
+alt="Loding.." width="40" height="40" border="10" /></a>
   </p>
 
  <p align="center">
