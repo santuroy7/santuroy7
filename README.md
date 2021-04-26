@@ -1,16 +1,3 @@
-## Hey! There 👋
-
-### Language:
-
-- Java
-- C
-- HTML/CSS
-- JavaScript
-- Node.js
-- Shell
-
-<hr>
-
 ### Github Stats:
 
 <p align="center">
