@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/santuroy7/santuroy7/blob/main/pexels-karyme-fran%C3%A7a-1535907%20(1).jpg" alt="Loading.." width="900" height="500" border="5">
+  <img src="https://github.com/santuroy7/santuroy7/blob/main/pexels-karyme-fran%C3%A7a-1535907%20(1).jpg" alt="Loading.." width="900" height="450" border="5">
   </p>
   
   <hr>
