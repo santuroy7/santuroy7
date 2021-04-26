@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/santuroy7/santuroy7/blob/main/pexels-karyme-fran%C3%A7a-1535907%20(1).jpg" alt="Loading.." width="150" height="250" border="5">
+  <img src="https://github.com/santuroy7/santuroy7/blob/main/pexels-karyme-fran%C3%A7a-1535907%20(1).jpg" alt="Loading.." width="3000" height="2000" border="5">
   </p>
   
   <hr>
@@ -23,3 +23,4 @@
    See You Soon ❤
  </p>
 
+300
