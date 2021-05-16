@@ -4,7 +4,7 @@
   
   <hr>
   
-#### Github Stats:
+## Github Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=santuroy7&show_icons=true&theme=dracula&line_height=32">
