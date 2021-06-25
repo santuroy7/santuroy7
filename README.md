@@ -13,9 +13,9 @@
 <hr>
 
 <p align="center">
-  <a href="https://www.facebook.com/santu.roy.589" target="_top"><img src="https://github.com/santuroy7/santuroy7/blob/main/fb.png" alt="Loading.." width="30" height="30" border="5" /></a>
-  <a href="https://www.instagram.com/it.s_roy__/" target="_top"><img src="https://github.com/santuroy7/santuroy7/blob/main/ig.png" alt="Loading.." width="30" height="30" border="5" /></a>
-  <a href="https://twitter.com/Santu_Roy__" target="_top"><img src="https://github.com/santuroy7/santuroy7/blob/main/tw.png" alt="Loading.." width="30" height="30" border="5" /></a>
+  <a href="https://www.facebook.com/santu.roy.589" target="_blank"><img src="https://github.com/santuroy7/santuroy7/blob/main/fb.png" alt="Loading.." width="30" height="30" border="5" /></a>
+  <a href="https://www.instagram.com/it.s_roy__/" target="_blank"><img src="https://github.com/santuroy7/santuroy7/blob/main/ig.png" alt="Loading.." width="30" height="30" border="5" /></a>
+  <a href="https://twitter.com/Santu_Roy__" target="_blank"><img src="https://github.com/santuroy7/santuroy7/blob/main/tw.png" alt="Loading.." width="30" height="30" border="5" /></a>
   </p>
 
 
